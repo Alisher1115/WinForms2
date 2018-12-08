@@ -1,0 +1,18 @@
+C:\Users\chert\source\repos\ConnectedModeHwWinFormsApp\ConnectedModeHwWinFormsApp\bin\Debug\ConnectedModeHwWinFormsApp.exe.config
+C:\Users\chert\source\repos\ConnectedModeHwWinFormsApp\ConnectedModeHwWinFormsApp\bin\Debug\ConnectedModeHwWinFormsApp.exe
+C:\Users\chert\source\repos\ConnectedModeHwWinFormsApp\ConnectedModeHwWinFormsApp\bin\Debug\ConnectedModeHwWinFormsApp.pdb
+C:\Users\chert\source\repos\ConnectedModeHwWinFormsApp\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.Form1.resources
+C:\Users\chert\source\repos\ConnectedModeHwWinFormsApp\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.Properties.Resources.resources
+C:\Users\chert\source\repos\ConnectedModeHwWinFormsApp\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.csproj.GenerateResource.cache
+C:\Users\chert\source\repos\ConnectedModeHwWinFormsApp\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\chert\source\repos\ConnectedModeHwWinFormsApp\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.exe
+C:\Users\chert\source\repos\ConnectedModeHwWinFormsApp\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.pdb
+C:\Новая папка\winformsdropdownlist\ConnectedModeHwWinFormsApp\bin\Debug\ConnectedModeHwWinFormsApp.exe.config
+C:\Новая папка\winformsdropdownlist\ConnectedModeHwWinFormsApp\bin\Debug\ConnectedModeHwWinFormsApp.exe
+C:\Новая папка\winformsdropdownlist\ConnectedModeHwWinFormsApp\bin\Debug\ConnectedModeHwWinFormsApp.pdb
+C:\Новая папка\winformsdropdownlist\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.Form1.resources
+C:\Новая папка\winformsdropdownlist\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.Properties.Resources.resources
+C:\Новая папка\winformsdropdownlist\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.csproj.GenerateResource.cache
+C:\Новая папка\winformsdropdownlist\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Новая папка\winformsdropdownlist\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.exe
+C:\Новая папка\winformsdropdownlist\ConnectedModeHwWinFormsApp\obj\Debug\ConnectedModeHwWinFormsApp.pdb
